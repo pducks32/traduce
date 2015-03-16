@@ -1,4 +1,5 @@
 require "traduce/version"
+require 'delegate'
 
 module Traduce
   def self.conjugate(verb, person:, number: 1, tense: :present, mood: :indictive, voice: :active)
