@@ -1,5 +1,5 @@
 # Traduce
-
+[![Build Status](https://travis-ci.org/pducks32/traduce.svg)](https://travis-ci.org/pducks32/traduce)
 This gem can conjugate any verb in Spanish!
 
 ## Installation
