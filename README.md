@@ -1,5 +1,7 @@
 # Traduce
 [![Build Status](https://travis-ci.org/pducks32/traduce.svg)](https://travis-ci.org/pducks32/traduce)
+[![Code Climate](https://codeclimate.com/github/pducks32/traduce/badges/gpa.svg)](https://codeclimate.com/github/pducks32/traduce)
+[![Test Coverage](https://codeclimate.com/github/pducks32/traduce/badges/coverage.svg)](https://codeclimate.com/github/pducks32/traduce)
 
 This gem can conjugate any verb in Spanish!
 
