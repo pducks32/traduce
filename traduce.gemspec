@@ -11,9 +11,9 @@ Gem::Specification.new do |spec|
 
   spec.summary         = %q{This gem can conjugate any verb in Spanish!}
   spec.homepage        = "https://github.com/pducks32/traduce"
-  spec.source_code     = "https://github.com/pducks32/traduce"
+  spec.metadata        =  { "source_code" => "https://github.com/pducks32/traduce" }
   spec.license         = "MIT"
-
+  
   spec.files           = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir          = "exe"
   spec.executables     = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
